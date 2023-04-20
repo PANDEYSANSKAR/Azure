@@ -1,0 +1,9 @@
+{
+	"name": "Testdemorepo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1b4a1960-c1c3-4600-bad4-127b051068fe",
+		"tenantId": "1e230292-037c-4001-bbe8-ffd095af3909"
+	}
+}
