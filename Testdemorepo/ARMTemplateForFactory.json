@@ -23,7 +23,7 @@
 			"properties": {
 				"activities": [
 					{
-						"name": "Copy data1",
+						"name": "Copy data1 updated",
 						"type": "Copy",
 						"dependsOn": [],
 						"policy": {
@@ -175,7 +175,7 @@
 				"typeProperties": {
 					"location": {
 						"type": "AzureBlobStorageLocation",
-						"fileName": "abc",
+						"fileName": "jkl",
 						"container": "source"
 					},
 					"columnDelimiter": ",",
