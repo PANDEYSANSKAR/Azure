@@ -10,7 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"fileName": "abc",
+				"fileName": "jkl",
 				"container": "source"
 			},
 			"columnDelimiter": ",",
